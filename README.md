@@ -25,7 +25,7 @@ https://drive.google.com/file/d/1qvHAdx75S8pRoRpwpy11g6-obtToi3_y/view?usp=shari
 
 ## 🛠 Tech Stack
 - Python  
-- Jupyter Notebook  
+- Google Colab Notebook  
 
 ## 🎯 Key Outcomes
 - Improved understanding of Python basics  
